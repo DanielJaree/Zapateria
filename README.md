@@ -1,9 +1,6 @@
 # Zapateria
 Zapateria JareMyerss
 
-# Consultas_1_SQL
-introduccion a las consultas a una BD usando el lenguaje SQL
-
 ## Base de datos: Zapateria
 ## Tabla: Articulo
 
@@ -16,3 +13,20 @@ introduccion a las consultas a una BD usando el lenguaje SQL
 ## Relacion
 
 ![Relacion](Relacion.png 'Tabla Cliente')
+
+# Consultas_Zapateria
+introduccion a las consultas a una BD usando el lenguaje SQL
+
+## Consulta_nombre
+
+![Consulta 1](Consulta1_Zapateria.png 'Nombre articulos')
+
+## Consulta_nombre_precios
+
+![Consulta 2](Nombre_Precios.png 'Nombre y Precios')
+
+## Consulta_Nombre_Precio_Menor_50000
+
+![Consulta 3](Menor_50000.png 'Nombre  Precio Menor 50000')
+
+## 
